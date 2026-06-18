@@ -1,4 +1,4 @@
-# Mundful-Math
+# Mindful-Math
 First MM files from technology author. Master-lists and problem blocks (Algebra), homogenious lists (Geometry)
 [![License: CC BY-NC-ND 4.0](https://shields.io)](https://creativecommons.org)
 Этот задачник распространяется на условиях международной лицензии Creative Commons «Attribution-NonCommercial-NoDerivatives» («Атрибуция — Некоммерческое использование — Без производных») 4.0 Всемирная (CC BY-NC-ND 4.0).
